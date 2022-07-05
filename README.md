@@ -1,2 +1,2 @@
-# js-anim
-dd
+# JavaScript animation on scroll
+
